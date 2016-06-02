@@ -11,8 +11,8 @@ int main()
 	MYSQL_ROW row;
 	char *server = "localhost";
 	char *user = "root";
-	char *password = "Timjar00";
-	char *database = "LINKDB";
+	char *password = "Your MySQL password";
+	char *database = "Your DATABASE";
 	conn = mysql_init(NULL);
 	mysql_real_connect(conn, server, user, password, database, 0, NULL, 0);
 	string newLink, query;
