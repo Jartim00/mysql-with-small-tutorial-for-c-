@@ -29,6 +29,6 @@ to show everything a table holds use a query like: "SELECT * FROM TABLE_NAME;", 
 "INSERT INTO TABLE_NAME VALUES("stuff");". <br>
 In this case stuff is a char of 5 characters long, it all depends on the datatype inside your database. <br>
 
-This was just a simple how to to get used to mysql a bit. From here on comes the real deal: inserting 
+This was just a simple how to to get used to mysql a bit. From here on comes the real deal: inserting things inside your database using a connecter like c++. <br>
 ________________________________________________________________________________________________________________________________
-
+#The real deal
