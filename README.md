@@ -1,7 +1,7 @@
 # mysql-with-small-tutorial-for-c-
 
 #Getting started with MySQL on linux:
-1: run "sudo apt-get install mysql-client"              this will install the mysql-client
+1: run "sudo apt-get install mysql-client"              this will install the mysql-client /n
 2: run "sudo apt-get install mysql-server"              this will install the mysql-server
 3: run "sudo apt-get install libmysqlclient-dev"        this will install the mysql-dev kit
 
